@@ -1,0 +1,8 @@
+{
+  "name": "EchoVision - Interactive Scene Navigator",
+  "description": "An interactive scene navigator that uses object detection to provide audio and visual feedback about the user's surroundings, enhancing spatial awareness.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
